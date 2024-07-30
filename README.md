@@ -1,19 +1,23 @@
 ## Hi there 👋
 
 <!--
-**PoloXpN/poloxpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PoloXpN/poloxpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on FallenKingdomsPlugin for Minecraft
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Projets académiques
+- Jeu de plateau : EpicMotsGlisse <a href="https://github.com/PoloXpN/EpicMotsGlisses/tree/main" />
+- Traitement d'image
+- VeloMax
+
+My Main project
+  My plugins
+
+Working on 
+  - FallenKingdoms plugin
+  - PitchOut plugin
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
