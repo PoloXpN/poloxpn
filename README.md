@@ -3,9 +3,8 @@
 <!--
 **PoloXpN/poloxpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on FallenKingdomsPlugin for Minecraft
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
+- 🔭 Je travaille actuellement sur un plugin de FallenKingdoms en Java.
+- 🌱 J'explore l'IA 
 
 ## Projets académiques <br>
 - Jeu de plateau : <a href="https://github.com/PoloXpN/EpicMotsGlisses/tree/main"> EpicMotsGlisse <a/> <br><img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -18,7 +17,7 @@
   <br>Ce qui était à l'origine un simple serveur de jeu Minecraft est aujourd'hui un projet destiné à recueillir la créativité et l'envie de chacun de progresser en informatique.</p>
   On retrouve :
   
-  - De la gestion de serveur avec du bash Linux, du Docker, et du serveur web avec Nginx. Ce qui m'a permi d'approfondir mes connaissances sur le système et ces outils.
+  - De la gestion de serveur avec du bash Linux, du Docker, et du serveur web avec Nginx. Ce qui m'a permi d'approfondir mes connaissances sur le système et les outils mentionnés.
   - De la création et de la gestion de jeu avec l'ajout et le développement de plugins Minecraft en Java. Un moyen de progresser vers une maitrise du code, de se projeter, de réfléchir à la structure d'une application et de comprendre l'utilisateur final.
   - De la construction de monde sur lesquels jouer et expérimenter. Un moyen de se rassembler autour de créations uniques.
 
