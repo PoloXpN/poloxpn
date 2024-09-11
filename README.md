@@ -49,11 +49,11 @@ Je ne peux pas vous en parler dans les détails mais je peux vous dire que j'ai 
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <!--<img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />-->
+  <!--<img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />-->
+  <!--<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />-->
+  <!--<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />-->
+  <!--<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />-->
 </p>
 
 ## Retrouvez moi
