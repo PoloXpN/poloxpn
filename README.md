@@ -2,9 +2,12 @@
 
 <!--
 **PoloXpN/poloxpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+Bienvenue sur mon portfolio si on peut vraiment appeler cela comme ça. Je vous présente un petit peu plus en détail mes expériences et ce que j'en ai tiré et je vous montre quelques illustrations. Ce portfolio est en cours de développement (je ne dirai pas en constante évolution puisqu'il n'a pas atteint une base depuis laquelle évoluer).
 
-- 🔭 Je travaille actuellement sur un plugin de FallenKingdoms en Java.
-- 🌱 J'explore l'IA 
+- 🔭 Je suis en études d'ingénieurs et je m'oriente vers le domaine informatique. 
+- J'ai commencé avec du développement applicatif et j'essaie de suivre et de découvrir l'évolution du numérique.
+- Je suis force de proposition mais je manque de technicité. C'est pourquoi je recherche une alternance pour m'approprier les socles des métiers de l'informatique mais je ne me retiendrai pas d'évoluer vers des postes me permettant d'avoir plus d'impact sur un secteur.
+- Notez que ma passion n'est pas l'informatique mais le transport et tous les enjeux qui touchent au transport (en particuliers les transports en commun).
 
 ## Projets académiques <br>
 - Jeu de plateau : <a href="https://github.com/PoloXpN/EpicMotsGlisses/tree/main"> EpicMotsGlisse <a/> <br><img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -12,8 +15,22 @@
 - VeloMax <br><img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
 - Etude statistique <br><img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
+## Expérience professionnelle <br>
+Je ne peux pas vous en parler dans les détails mais je peux vous dire que j'ai beaucoup appris de mon stage estival. J'ai également pu mettre en application ce que l'école m'a enseigné.
+
+\- Utiliser les outils de productivé pour permettre des échanges fluides, repertoriés et un suivi des projets sans s'éparpiller.<br>
+\- Cela impliquait de faire de la documentation, du recettage, de la rédaction de specs techhniques (ou cahier des charges). <br>
+\- Apprendre à échanger sur les besoins clients entre les commerciaux, chefs de projets, développeurs.<br>
+=>🏄Le tout pour s'approprier le travail d'équipe et s'intégrer dans l'équipe.
+
+\- ⏱️Mesurer le temps pour différentes tâches pour mieux les apréhender.
+\- ⚠️Définir des priorités.
+=>🗓️Le tout pour mettre en place des rétro-plannings et gérer le temps de développement.
+
+- Et ce n'est pas fini.
+
 ## Mon projet (plus très perso) : **Léocraft**
-  <p>Un projet qui a débuté dès le lycée pendant la période de confinement et qui s'est ouvert à d'autres en études supérieures.
+  <p>Un projet qui a débuté dès le lycée pendant la période de confinement et qui s'est bientôt ouvert à d'autres.
   <br>Ce qui était à l'origine un simple serveur de jeu Minecraft est aujourd'hui un projet destiné à recueillir la créativité et l'envie de chacun de progresser en informatique.</p>
   On retrouve :
   
