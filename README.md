@@ -9,6 +9,8 @@ Bienvenue sur mon portfolio si on peut vraiment appeler cela comme ça. Je vous 
 - Je suis force de proposition mais je manque de technicité. C'est pourquoi je recherche une alternance pour m'approprier les socles des métiers de l'informatique mais je ne me retiendrai pas d'évoluer vers des postes me permettant d'avoir plus d'impact sur un secteur.
 - Notez que ma passion n'est pas l'informatique mais le transport et tous les enjeux qui touchent au transport (en particuliers les transports en commun).
 
+Si vous voulez mon résumé, téléchargez plutôt mon CV. <todo: insérer mon cv>
+
 ## Projets académiques <br>
 - Jeu de plateau : <a href="https://github.com/PoloXpN/EpicMotsGlisses/tree/main"> EpicMotsGlisse <a/> <br><img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 - Traitement d'image <br><img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
