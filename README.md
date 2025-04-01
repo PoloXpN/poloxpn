@@ -10,12 +10,16 @@ Bienvenue sur mon portfolio si on peut vraiment appeler cela comme ça. Je vous 
 - Ma passion n'est pas l'informatique mais le transport et tous les enjeux qui touchent au transport (en particuliers les transports en commun).
 
 ## Projets académiques <br>
-- Jeu de plateau : <a href="https://github.com/PoloXpN/EpicMotsGlisses/tree/main"> EpicMotsGlisse <a/> <br><img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-- Traitement d'image <br><img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-- VeloMax <br><img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
-- Etude statistique <br><img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-- Recensement et analyse des avis/alertes de sécurités, introduction aux API et aux outils d'analyse de données. <br><img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-- Projet annuel PIX (2024) : 🏆 Vainqueur de la promotion Nantaise pour la conception d'un robot quadrupède en arduino. J'ai travaillé sur la conception et la modélisation 3D intégrale et ai développé l'algorithme de déplacement. <br><img alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+- Jeu de plateau : <a href="https://github.com/PoloXpN/EpicMotsGlisses/tree/main"> EpicMotsGlisse <a/> <br>![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+- Traitement d'image <br>![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+- VeloMax <br>![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+- Etude statistique <br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- Projet annuel PIX (2024) : 🏆 Vainqueur de la promotion Nantaise pour la conception d'un robot quadrupède en arduino. J'ai travaillé sur la conception et la modélisation 3D intégrale et ai développé l'algorithme de déplacement. <br>![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+- Recensement et analyse des avis/alertes de sécurités, introduction aux API et aux outils d'analyse de données. <br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- Analyses et prédictions de données des systèmes de télécomunication <br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**à venir**:
+- Jeu pokémon : s'initier au développeur C++ et à la manipulation d'interface graphique <br>![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Expérience professionnelle <br>
 D'abord stagiaire puis apprenti chez LiveE, je suis assistant au chef de projet sur la supervisation des travaux de R&D.
@@ -36,7 +40,6 @@ D'abord stagiaire puis apprenti chez LiveE, je suis assistant au chef de projet 
   - EpicJump plugin <br>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
   <!--<img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />-->
   <!--<img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />-->
   <!--<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />-->
