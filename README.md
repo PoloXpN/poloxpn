@@ -31,12 +31,9 @@ D'abord stagiaire puis apprenti chez LiveE, je suis assistant au chef de projet 
   - De la construction de mondes sur lesquels exprimer sa créativité et jouer. Un moyen de se rassembler autour de créations uniques.
 <br>![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### FallenKingdoms (Version Epicube) :
-  - EpicFallenKingdoms plugin <br><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  - EpicPitchOut plugin <br><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-
-### Déjà Paru :
-  -  <a href="https://github.com/PoloXpN/EpicJump"> EpicJump <a/> plugin 
+### EpicPlugins (Jeux Epicube) :
+  - EpicFallenKingdoms plugin <br>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  - EpicJump plugin <br>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
