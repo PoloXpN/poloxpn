@@ -4,12 +4,10 @@
 **PoloXpN/poloxpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 Bienvenue sur mon portfolio si on peut vraiment appeler cela comme ça. Je vous présente un petit peu plus en détail mes expériences et ce que j'en ai tiré et je vous montre quelques illustrations. Ce portfolio est en cours de développement (je ne dirai pas en constante évolution puisqu'il n'a pas atteint une base depuis laquelle évoluer).
 
-- 🔭 Je suis en études d'ingénieurs et je m'oriente vers le domaine informatique. 
-- J'ai commencé avec du développement applicatif et j'essaie de suivre et de découvrir l'évolution du numérique.
-- Je suis force de proposition mais je manque de technicité. C'est pourquoi je recherche une alternance pour m'approprier les socles des métiers de l'informatique mais je ne me retiendrai pas d'évoluer vers des postes me permettant d'avoir plus d'impact sur un secteur.
-- Notez que ma passion n'est pas l'informatique mais le transport et tous les enjeux qui touchent au transport (en particuliers les transports en commun).
-
-Si vous voulez mon résumé, téléchargez plutôt mon CV. <todo: insérer mon cv>
+- 🔭 Je suis en études d'ingénieurs et je me spécialise en master Cloud Computing & Cybersécurité. 
+- Mon parcours dans le domaine informatique débute par du développement applicatif, j'essaie de m'appropier l'IA dans ses diverses formes et de suivre l'évolution du numérique.
+- Je suis force de proposition mais je manque de technicité. Je comprends, je fais les liens avec ce que je peux être confronté au quotidien, c'est-à-dire que j'apprends de tout à chaque instant et je trouve cela génial.
+- Ma passion n'est pas l'informatique mais le transport et tous les enjeux qui touchent au transport (en particuliers les transports en commun).
 
 ## Projets académiques <br>
 - Jeu de plateau : <a href="https://github.com/PoloXpN/EpicMotsGlisses/tree/main"> EpicMotsGlisse <a/> <br><img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
