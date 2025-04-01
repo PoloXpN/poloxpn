@@ -15,19 +15,10 @@ Bienvenue sur mon portfolio si on peut vraiment appeler cela comme ça. Je vous 
 - VeloMax <br><img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
 - Etude statistique <br><img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 - Recensement et analyse des avis/alertes de sécurités, introduction aux API et aux outils d'analyse de données. <br><img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+- Projet annuel PIX (2024) : 🏆 Vainqueur de la promotion Nantaise pour la conception d'un robot quadrupède en arduino. J'ai travaillé sur la conception et la modélisation 3D intégrale et ai développé l'algorithme de déplacement. <br><img alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 
 ## Expérience professionnelle <br>
 Apprenti chez LiveE, je suis assistant au chef de projet sur la supervisation des travaux de R&D.
-\- Utiliser les outils de productivé pour permettre des échanges fluides, repertoriés et un suivi des projets sans s'éparpiller.<br>
-\- Cela impliquait de faire de la documentation, du recettage, de la rédaction de specs techhniques (ou cahier des charges). <br>
-\- Apprendre à échanger sur les besoins clients entre les commerciaux, chefs de projets, développeurs.<br>
-=>🏄Le tout pour s'approprier le travail d'équipe et s'intégrer dans l'équipe.
-
-\- ⏱️Mesurer le temps pour différentes tâches pour mieux les apréhender.
-\- ⚠️Définir des priorités.
-=>🗓️Le tout pour mettre en place des rétro-plannings et gérer le temps de développement.
-
-- Et ce n'est pas fini.
 
 ## Mon projet (plus très perso) : **Léocraft**
   <p>Un projet qui a débuté dès le lycée pendant la période de confinement et qui s'est bientôt ouvert à d'autres.
