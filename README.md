@@ -12,7 +12,7 @@ Bienvenue sur mon portfolio si on peut vraiment appeler cela comme ça. Je vous 
 ## Projets académiques <br>
 - Jeu de plateau : <a href="https://github.com/PoloXpN/EpicMotsGlisses/tree/main"> EpicMotsGlisse <a/> <br>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 - Traitement d'image <br>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-- VeloMax <br>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+- VeloMax <br>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - Etude statistique <br>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - Projet annuel PIX (2024) : 🏆 Vainqueur de la promotion Nantaise pour la conception d'un robot quadrupède en arduino. J'ai travaillé sur la conception et la modélisation 3D intégrale et ai développé l'algorithme de déplacement. <br>![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 - Recensement et analyse des avis/alertes de sécurités, introduction aux API et aux outils d'analyse de données. <br>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
