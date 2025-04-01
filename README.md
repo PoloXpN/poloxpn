@@ -14,6 +14,7 @@ Bienvenue sur mon portfolio si on peut vraiment appeler cela comme ça. Je vous 
 - Traitement d'image <br><img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 - VeloMax <br><img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
 - Etude statistique <br><img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+- Recensement et analyse des avis/alertes de sécurités, introduction aux API et aux outils d'analyse de données. <br><img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 ## Expérience professionnelle <br>
 Apprenti chez LiveE, je suis assistant au chef de projet sur la supervisation des travaux de R&D.
