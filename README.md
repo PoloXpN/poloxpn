@@ -9,7 +9,7 @@ Bienvenue sur mon portfolio si on peut vraiment appeler cela comme ça. Je vous 
 - Je suis force de proposition mais je manque de technicité. Je comprends, je fais les liens avec ce que je peux être confronté au quotidien, c'est-à-dire que j'apprends de tout à chaque instant et je trouve cela génial.
 - Ma passion n'est pas l'informatique mais le transport et tous les enjeux qui touchent au transport (en particuliers les transports en commun).
 
-## Projets académiques <br>
+## Projets académiques <img src="https://th.bing.com/th?q=Logo+ESILV+PNG&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=fr-FR&cc=FR&setlang=fr&adlt=moderate&t=1&mw=247" width=32>
 - Jeu de plateau : <a href="https://github.com/PoloXpN/EpicMotsGlisses/tree/main"> EpicMotsGlisse <a/> <br>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 - Traitement d'image <br>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 - VeloMax <br>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
