@@ -29,7 +29,7 @@ D'abord stagiaire puis apprenti chez LiveE, je suis assistant au chef de projet 
   - De la gestion d'infra avec Linux, Docker, Nginx. Ce qui m'a permi d'approfondir mes connaissances en système et réseaux.
   - De la création et de la gestion de jeu avec l'ajout et le développement de plugins Minecraft en Java et de la gestion SysAdmin des instances de Jeu. Un moyen de progresser en développement applicatif, en se projetant, en comprenant le point de vue de l'utilisateur et en réfléchissant à la structure d'une application.
   - De la construction de mondes sur lesquels exprimer sa créativité et jouer. Un moyen de se rassembler autour de créations uniques.
-<br><img alt="nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /><img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<br>![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### FallenKingdoms (Version Epicube) :
   - EpicFallenKingdoms plugin <br><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
