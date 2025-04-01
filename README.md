@@ -16,8 +16,7 @@ Bienvenue sur mon portfolio si on peut vraiment appeler cela comme ça. Je vous 
 - Etude statistique <br><img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 ## Expérience professionnelle <br>
-Je ne peux pas vous en parler dans les détails mais je peux vous dire que j'ai beaucoup appris de mon stage estival. J'ai également pu mettre en application ce que l'école m'a enseigné.
-
+Apprenti chez LiveE, je suis assistant au chef de projet sur la supervisation des travaux de R&D.
 \- Utiliser les outils de productivé pour permettre des échanges fluides, repertoriés et un suivi des projets sans s'éparpiller.<br>
 \- Cela impliquait de faire de la documentation, du recettage, de la rédaction de specs techhniques (ou cahier des charges). <br>
 \- Apprendre à échanger sur les besoins clients entre les commerciaux, chefs de projets, développeurs.<br>
