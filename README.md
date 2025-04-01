@@ -19,7 +19,7 @@ Bienvenue sur mon portfolio si on peut vraiment appeler cela comme ça. Je vous 
 - Analyses et prédictions de données des systèmes de télécomunication <br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **à venir**:
-- Jeu pokémon : s'initier au développeur C++ et à la manipulation d'interface graphique <br>![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- Jeu pokémon : s'initier au développeur C++ et à la manipulation d'une interface graphique <br>![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Expérience professionnelle <br>
 D'abord stagiaire puis apprenti chez LiveE, je suis assistant au chef de projet sur la supervisation des travaux de R&D.
