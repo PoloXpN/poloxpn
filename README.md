@@ -23,16 +23,16 @@ Bienvenue sur mon portfolio si on peut vraiment appeler cela comme ça. Je vous 
 
 ## Expérience professionnelle <br>
 D'abord stagiaire puis apprenti chez LiveE, je suis assistant au chef de projet sur la supervisation des travaux de R&D. J'aide aussi au maquettage divers.
-<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+<br>![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 
 ## Projets personnels :
 **Léocraft**
   <p>Un projet qui a débuté dès le lycée pendant la période de confinement et qui a pris plusieurs formes jusqu'à aujourd'hui.
-  <br>Ce qui était à l'origine un simple serveur de jeu Minecraft est aujourd'hui un projet destiné à accueillir la créativité et l'aspiration de chacun de progresser en informatique.</p>
-  Ce projet est un bac à sable pour l'expérimentation et la manipulation d'outils informatique. On retrouve :
+  <br>Ce qui était à l'origine un simple serveur de jeu Minecraft est aujourd'hui un projet destiné à accueillir la créativité et l'aspiration de chacun à progresser en informatique.</p>
+  Ce projet est un bac à sable pour l'expérimentation et la manipulation d'outils de développement et d'hébergement et de gestion d'applicatifs. On retrouve :
   
-  - De la gestion d'infra avec Linux, Docker, Nginx. Ce qui m'a permi d'approfondir mes connaissances en système et réseaux.
-  - De la création et de la gestion de jeu avec l'ajout et le développement de plugins Minecraft en Java et de la gestion SysAdmin des instances de Jeu. Un moyen de progresser en développement applicatif, en se projetant, en comprenant le point de vue de l'utilisateur et en réfléchissant à la structure d'une application.
+  - De la gestion d'infra avec Linux, Docker,... Ce qui m'a permi d'approfondir mes connaissances en système et réseaux. La prochaine etape est Kubernetes.
+  - De la création et de la gestion de jeu avec l'ajout et le développement de plugins Minecraft en Java et de la gestion SysAdmin des instances de Jeu. Un moyen de progresser en développement applicatif, de structurer une application, de gérer un projet.
   - De la construction de mondes sur lesquels exprimer sa créativité et jouer. Un moyen de se rassembler autour de créations uniques.
 <br>![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
