@@ -12,7 +12,7 @@ Here's my favorites tech:
 <br>Docker, Cloudflare, Proxmox, C#, Java, JavaScript, TypeScript, Claude, Codex, Ghostty, Cursor
 
 Other tech I am familiar with:
-<br>Jira, Confluence, Figma, Git, Github Actions, Python
+<br>Jira, Confluence, Figma, Git, Github Actions, Python, Angular, Next.js, React, TailwindCSS, SQL, NoSQL, ...
 
 I built my second brain using [Andrej Karpathy's llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) gist and [OKF](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing) standard from Google completed by Obsidian to browse it.
 
