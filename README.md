@@ -1,57 +1,44 @@
-## Salut, salut 👋
+## Hi, I'm Paul 👋
 
-<!--
-**PoloXpN/poloxpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-Bienvenue sur mon portfolio si on peut vraiment appeler cela comme ça. Je vous présente un petit peu plus en détail mes expériences et ce que j'en ai tiré et je vous montre quelques illustrations. Ce portfolio est en cours de développement (je ne dirai pas en constante évolution puisqu'il n'a pas atteint une base depuis laquelle évoluer).
+### Product Owner, Software engineering, AI-enthusiast
 
-- 🔭 Je suis en études d'ingénieurs et je me spécialise en master Cloud Computing & Cybersécurité. 
-- Mon parcours dans le domaine informatique débute par du développement applicatif, j'essaie de m'appropier l'IA dans ses diverses formes et de suivre l'évolution du numérique.
-- Je suis force de proposition mais je manque de technicité. Je comprends, je fais les liens avec ce que je peux être confronté au quotidien, c'est-à-dire que j'apprends de tout à chaque instant et je trouve cela génial.
-- Ma passion n'est pas l'informatique mais le transport et tous les enjeux qui touchent au transport (en particuliers les transports en commun).
+Welcome to my page. I am an engineering student specialised in Cloud Computing & Cybersecurity at ESILV.
+I am based in France 🇫🇷 but ready to travel accros the world.
+French & English are part of my daily life but I set aside some time to learn Chinese.
 
-## Projets académiques <img src="https://th.bing.com/th?q=Logo+ESILV+PNG&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=fr-FR&cc=FR&setlang=fr&adlt=moderate&t=1&mw=247" width=32>
-- Jeu de plateau : <a href="https://github.com/PoloXpN/EpicMotsGlisses/tree/main"> EpicMotsGlisse <a/> <br>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-- Traitement d'image <br>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-- VeloMax <br>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-- Etude statistique <br>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- Projet annuel PIX (2024) : 🏆 Vainqueur de la promotion Nantaise pour la conception d'un robot quadrupède en arduino. J'ai travaillé sur la conception et la modélisation 3D intégrale et ai développé l'algorithme de déplacement. <br>![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-- Recensement et analyse des avis/alertes de sécurités, introduction aux API et aux outils d'analyse de données. <br>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- Analyses et prédictions de données des systèmes de télécomunication <br>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+Powered by my M2 Pro, I work a lot with Agentic AI to connect all my work to my thoughts and I love discovering new tech stuff to build things.
 
-**à venir**:
-- Jeu pokémon : s'initier au développeur C++ et à la manipulation d'une interface graphique <br>![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+Here's my favorites tech:
+<br>Docker, Cloudflare, Proxmox, C#, Java, JavaScript, TypeScript, Claude, Codex, Ghostty, Cursor
 
-## Expérience professionnelle <br>
-D'abord stagiaire puis apprenti chez LiveE, je suis assistant au chef de projet sur la supervisation des travaux de R&D. J'aide aussi au maquettage divers.
-<br>![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+Other tech I am familiar with:
+<br>Jira, Confluence, Figma, Git, Github Actions, Python
 
-## Projets personnels :
-**Léocraft**
-  <p>Un projet qui a débuté dès le lycée pendant la période de confinement et qui a pris plusieurs formes jusqu'à aujourd'hui.
-  <br>Ce qui était à l'origine un simple serveur de jeu Minecraft est aujourd'hui un projet destiné à accueillir la créativité et l'aspiration de chacun à progresser en informatique.</p>
-  Ce projet est un bac à sable pour l'expérimentation et la manipulation d'outils de développement et d'hébergement et de gestion d'applicatifs. On retrouve :
-  
-  - De la gestion d'infra avec Linux, Docker,... Ce qui m'a permi d'approfondir mes connaissances en système et réseaux. La prochaine etape est Kubernetes.
-  - De la création et de la gestion de jeu avec l'ajout et le développement de plugins Minecraft en Java et de la gestion SysAdmin des instances de Jeu. Un moyen de progresser en développement applicatif, de structurer une application, de gérer un projet.
-  - De la construction de mondes sur lesquels exprimer sa créativité et jouer. Un moyen de se rassembler autour de créations uniques.
-<br>![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+I built my second brain using [Andrej Karpathy's llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) gist and [OKF](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing) standard from Google completed by Obsidian to browse it.
 
-**EpicPlugins (Jeux Epicube)**
-  - EpicFallenKingdoms plugin <br>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  - EpicJump plugin <br>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+## Some of my academic projects <img src="https://th.bing.com/th?q=Logo+ESILV+PNG&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=fr-FR&cc=FR&setlang=fr&adlt=moderate&t=1&mw=247" width=32>
+Including:
+- TUI games : <a href="https://github.com/PoloXpN/EpicMotsGlisses/tree/main"> EpicMotsGlisse (EpicSlidingWords)<a/> and <a href="https://github.com/PoloXpN/EpicPokemon"> EpicPokemon</a>
+<br>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) [![No AI](https://custom-icon-badges.demolab.com/badge/No%20AI-2f2f2f?logo=non-ai&logoColor=white)](#)
+- Android Game App : <a href="https://github.com/PoloXpN/Epic2048">Epic2048</a>
+<br>[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
+- Image processing and transformation
+<br>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![No AI](https://custom-icon-badges.demolab.com/badge/No%20AI-2f2f2f?logo=non-ai&logoColor=white)](#)
+- Multiple business database softwares
+<br>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![No AI](https://custom-icon-badges.demolab.com/badge/No%20AI-2f2f2f?logo=non-ai&logoColor=white)](#)
+- Annual project PIX (2024) : 🏆 Awarded the Best Project prize for the conception and design of an autonomous quadruped robot. <br>![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) [![No AI](https://custom-icon-badges.demolab.com/badge/No%20AI-2f2f2f?logo=non-ai&logoColor=white)](#)
+- Daily Inventory and analysis of security notices/alerts automation. <br>[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![No AI](https://custom-icon-badges.demolab.com/badge/No%20AI-2f2f2f?logo=non-ai&logoColor=white)](#)
+- Data analysis and prediction for telecommunication systems (Machine Learning) <br>[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
-<p>
-  <!--<img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />-->
-  <!--<img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />-->
-  <!--<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />-->
-  <!--<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />-->
-  <!--<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />-->
-</p>
+## Personal Project :
+**Minecraft Server**
+  <p>I want to make private Minecraft server hosting easy, fast and costless with minimal computational ressources. That's why I am working on a mini game library and a service core api using Minestom, an ultra lightweight Minecraft platform with zero Minecraft code implementation. Minestom only makes the interface between client-server packets and Minecraft objects.<p>
 
-## Autres compétences :
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**EpicPlugins (Minecraft Paper minigames)**
+  - EpicFallenKingdoms plugin <br>[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+  - EpicJump plugin <br>[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
-## Retrouvez moi
+## My other links
 <p>
   <a href="https://github.com/poloxpn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/pauljin-ddlp" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
